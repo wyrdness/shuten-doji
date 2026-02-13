@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/shuten-doji",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "shuten-doji",
+    "name": "Shuten-doji (酒呑童子)",
+    "aliases": [],
+    "category": "DEMON_ANGEL",
+    "subcategory": "Bull-like or ram-like, curving",
+    "tags": [
+      "and-interpretation"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "During the mid-Heian period (approximately 990 CE), the capital of Kyoto was plagued by mysterious disappearances of young nobles, particularly beautiful court ladies.",
+      "full": "During the mid-Heian period (approximately 990 CE), the capital of Kyoto was plagued by mysterious disappearances of young nobles, particularly beautiful court ladies. Divinations revealed the horrifying truth: a massive oni demon had established a fortress on Mount Ōe (大江山), northwest of the capital, where he led a band of demons in raids on the city. The demon king, Shuten-doji, would kidnap nobles—especially young women—take them to his mountain stronghold, and subject them to unspeakable fates. Some accounts claim he devoured them; others suggest he kept them as slaves or concubines, subjecting them to torture and degradation before ultimately killing them. The demon's power was immense. Standing anywhere from 2 to 10 meters tall (accounts vary dramatically), Shuten-doji possessed supernatural strength, invulnerability to normal weapons, command over other demons and oni, and magical abilities including shape-shifting and illusion-casting. His fortress on Mount Ōe was said to be a palace of terror—a grotesque mockery of imperial splendor, built with stolen treasures, decorated with the bones and preserved bodies of victims, and staffed by a demonic court. What made Shuten-doji particularly dangerous, beyond his physical power, was his intelligence and cunning. Unlike mindless beasts, he ruled his demon followers with strategic brilliance, planned his raids carefully, and could disguise himself as a beautiful young nobleman to infiltrate human society. His name reflects his most famous weakness: an insatiable love of sake (Japanese rice wine). This appetite for alcohol would ultimately prove his downfall. The Emperor, unable to tolerate the continuing depredations, commanded his greatest warriors to destroy the demon. A legendary party of heroes led by Minamoto no Yorimitsu (源頼光, also known as Raikō) was assembled, including some of the most celebrated warriors of Japanese history: Sakata no Kintoki (the legendary \\\"Golden Boy\\\"), Watanabe no Tsuna, Usui Sadamitsu, and Urabe no Suetake. These warriors embarked on a perilous quest to Mount Ōe, armed not only with swords and bravery but also with divine assistance and sacred artifacts. The story of Shuten-doji's defeat combines elements of heroic adventure, divine intervention, moral instruction, and cultural values. The heroes employ both martial prowess and cunning deception, most famously using poisoned sake to weaken the demon before striking. The demon king's head, even after being severed, supposedly flew through the air attempting to bite Yorimitsu, requiring multiple warriors to hold it down—a testament to his supernatural vitality and malevolence. Beyond the adventure narrative, Shuten-doji's legend serves multiple cultural functions. It exemplifies the Heian period's anxieties about the wild frontier regions surrounding civilized Kyoto, embodies fears about lawlessness and violence, demonstrates the virtue of loyalty and courage, and ultimately reinforces the power and divine mandate of the imperial court and its champions. The demon king also represents marginalized peoples and outlaws who rejected or were rejected by court society, with some interpretations suggesting historical bandits or rebellious groups as the inspiration for the legendary demon. The tale has been retold countless times across Japanese cultural history: in emaki (painted scrolls), Noh theater, Kabuki drama, popular fiction, and modern media. Shuten-doji remains one of Japan's most recognized demon figures, appearing in video games, anime, manga, and contemporary entertainment as the ultimate oni antagonist—sometimes as a villain, occasionally as an antihero, but always as a figure of immense power and dark charisma."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "DEMON_ANGEL",
+      "type": "Bull-like or ram-like, curving",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
