@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/shuten-doji",
     "maintainers": [
       {
@@ -16,71 +16,147 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "shuten-doji",
-    "name": "Shuten-doji (酒呑童子)",
-    "aliases": [],
+    "name": "Shuten-dōji",
+    "aliases": [
+      { "name": "酒呑童子", "language": "Japanese (kanji)", "meaning": "sake-drinking lad / sake-drinking boy" },
+      { "name": "Shuten Dōji", "language": "Japanese (romanized)" },
+      { "name": "Shutendōji", "language": "Japanese (alternate romanization)" },
+      { "name": "Shuten-doji of Mount Ōe", "language": "English", "region": "Mount Ōe, Tango / Tamba border" },
+      { "name": "Ibukidōji", "language": "Japanese", "region": "Ibukiyama variant", "meaning": "Mount Ibuki version of the legend" }
+    ],
     "category": "DEMON_ANGEL",
-    "subcategory": "Bull-like or ram-like, curving",
+    "subcategory": "Oni / demon king (Japanese folklore)",
     "tags": [
-      "and-interpretation"
+      "japanese-folklore",
+      "oni",
+      "heian-era",
+      "minamoto-no-yorimitsu",
+      "raiko",
+      "mount-oe",
+      "sake",
+      "otogizoshi",
+      "noh",
+      "kabuki"
     ],
     "status": "documented",
     "description": {
-      "summary": "During the mid-Heian period (approximately 990 CE), the capital of Kyoto was plagued by mysterious disappearances of young nobles, particularly beautiful court ladies.",
-      "full": "During the mid-Heian period (approximately 990 CE), the capital of Kyoto was plagued by mysterious disappearances of young nobles, particularly beautiful court ladies. Divinations revealed the horrifying truth: a massive oni demon had established a fortress on Mount Ōe (大江山), northwest of the capital, where he led a band of demons in raids on the city. The demon king, Shuten-doji, would kidnap nobles—especially young women—take them to his mountain stronghold, and subject them to unspeakable fates. Some accounts claim he devoured them; others suggest he kept them as slaves or concubines, subjecting them to torture and degradation before ultimately killing them. The demon's power was immense. Standing anywhere from 2 to 10 meters tall (accounts vary dramatically), Shuten-doji possessed supernatural strength, invulnerability to normal weapons, command over other demons and oni, and magical abilities including shape-shifting and illusion-casting. His fortress on Mount Ōe was said to be a palace of terror—a grotesque mockery of imperial splendor, built with stolen treasures, decorated with the bones and preserved bodies of victims, and staffed by a demonic court. What made Shuten-doji particularly dangerous, beyond his physical power, was his intelligence and cunning. Unlike mindless beasts, he ruled his demon followers with strategic brilliance, planned his raids carefully, and could disguise himself as a beautiful young nobleman to infiltrate human society. His name reflects his most famous weakness: an insatiable love of sake (Japanese rice wine). This appetite for alcohol would ultimately prove his downfall. The Emperor, unable to tolerate the continuing depredations, commanded his greatest warriors to destroy the demon. A legendary party of heroes led by Minamoto no Yorimitsu (源頼光, also known as Raikō) was assembled, including some of the most celebrated warriors of Japanese history: Sakata no Kintoki (the legendary \\\"Golden Boy\\\"), Watanabe no Tsuna, Usui Sadamitsu, and Urabe no Suetake. These warriors embarked on a perilous quest to Mount Ōe, armed not only with swords and bravery but also with divine assistance and sacred artifacts. The story of Shuten-doji's defeat combines elements of heroic adventure, divine intervention, moral instruction, and cultural values. The heroes employ both martial prowess and cunning deception, most famously using poisoned sake to weaken the demon before striking. The demon king's head, even after being severed, supposedly flew through the air attempting to bite Yorimitsu, requiring multiple warriors to hold it down—a testament to his supernatural vitality and malevolence. Beyond the adventure narrative, Shuten-doji's legend serves multiple cultural functions. It exemplifies the Heian period's anxieties about the wild frontier regions surrounding civilized Kyoto, embodies fears about lawlessness and violence, demonstrates the virtue of loyalty and courage, and ultimately reinforces the power and divine mandate of the imperial court and its champions. The demon king also represents marginalized peoples and outlaws who rejected or were rejected by court society, with some interpretations suggesting historical bandits or rebellious groups as the inspiration for the legendary demon. The tale has been retold countless times across Japanese cultural history: in emaki (painted scrolls), Noh theater, Kabuki drama, popular fiction, and modern media. Shuten-doji remains one of Japan's most recognized demon figures, appearing in video games, anime, manga, and contemporary entertainment as the ultimate oni antagonist—sometimes as a villain, occasionally as an antihero, but always as a figure of immense power and dark charisma."
+      "summary": "Shuten-dōji ('sake-drinking lad') is a legendary oni (demon) of Japanese folklore who, set in the reign of Emperor Ichijō (986–1011), is said to have led a band of demons from a fortress on Mount Ōe and abducted nobles of the capital. He was defeated by the warrior Minamoto no Yorimitsu (Raikō) and his Four Heavenly Kings, who infiltrated his stronghold disguised as yamabushi and gave him a poisoned sake.",
+      "full": "Shuten-dōji (酒呑童子, 'sake-drinking lad') is one of the most famous oni of Japanese legend. The story is set in the reign of Emperor Ichijō (986–1011) and casts the demon as the king of the oni of Mount Ōe (variously identified as Ōeyama in northwestern Kyoto / on the Tango–Tamba border, or with the southern Ōe near Kameoka). From this stronghold the demon and his followers are said to have raided the capital and carried off members of the nobility. By imperial command, the warrior Minamoto no Yorimitsu — popularly known as Raikō — together with his Four Heavenly Kings (shitennō: Watanabe no Tsuna, Sakata no Kintoki, Urabe no Suetake, and Usui Sadamitsu) and the courtier Fujiwara no Yasumasa, set out to destroy him. Disguising themselves as yamabushi (mountain ascetics) and aided by deities of Sumiyoshi, Iwashimizu Hachimangū, and Kumano (depending on the version), the heroes were welcomed into the demon's hall, where they presented him with a 'divine elixir' — a poisoned sake — that incapacitated him. Once he had drunk himself into a stupor they cut off his head, which is said to have flown through the air and tried to bite Raikō before being held down. The earliest surviving illustrated text, the Ōeyama Ekotoba (Ōeyama Picture Scroll), is held by the Itsuō Art Museum and dates to the 14th century. The legend was carried into Otogi-zōshi short stories, the Otogi Bunko of the early 18th century, Noh and Kabuki theatre, ukiyo-e, and into modern manga, anime, and video games. Major variant texts include Ōeyama Shuten-dōji and Ibukiyama Shuten-dōji, which place the events at different mountains and offer different origin stories for the demon."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Japanese: 酒 shu ('sake'), 呑 ten ('to drink'), 童子 dōji ('boy / child / acolyte').",
+      "meaning": "'Sake-drinking lad', referring to the demon's love of sake.",
+      "first_use": "14th century (in the Ōeyama Ekotoba); the legend is set earlier, in the Heian period (Emperor Ichijō, r. 986–1011)."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "DEMON_ANGEL",
-      "type": "Bull-like or ram-like, curving",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Oni",
+      "subtype": "Demon king",
+      "variant": "Mount Ōe / Mount Ibuki"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "ibaraki-doji", "name": "Ibaraki-dōji", "relationship": "related", "description": "Shuten-dōji's chief retainer; severed-arm legend involving Watanabe no Tsuna at Rashōmon" },
+      { "id": "tsuchigumo", "name": "Tsuchigumo", "relationship": "related", "description": "Another monstrous adversary of Minamoto no Yorimitsu" },
+      { "id": "oni", "name": "Oni", "relationship": "superset", "description": "General class of Japanese demons; Shuten-dōji is their archetypal king" },
+      { "id": "yamamba", "name": "Yamamba", "relationship": "related", "description": "Mountain hag identified in some versions as Shuten-dōji's mother" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "coloration": ["red", "ruddy"],
+      "features": [
+        { "feature": "Horned head", "description": "Pictured with one or more horns and dishevelled hair, in the standard oni iconography.", "frequency": "always" },
+        { "feature": "Massive size", "description": "Depicted as gigantic; in the most exaggerated versions, several meters tall with a head able to fly.", "frequency": "common" },
+        { "feature": "Boy-like persona", "description": "Despite his demonic nature, he is conventionally depicted with a youthful or boyish face — the dōji ('lad') of his name.", "frequency": "always" },
+        { "feature": "Red or ruddy skin", "description": "Standard oni colouration in pictorial tradition.", "frequency": "common" }
+      ],
+      "morphology": "Oni morphology: humanoid, horned, often clawed and fanged, capable of shape-shifting into a beautiful young man to deceive humans."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Supernatural strength", "description": "Possesses prodigious physical strength, said to be invulnerable to ordinary weapons.", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Command of demons", "description": "Rules a band of subordinate oni from his Mount Ōe fortress.", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Shapeshifting and illusion", "description": "Can disguise himself as a beautiful young nobleman or ascetic; his hall appears as a sumptuous palace.", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Severed-head animacy", "description": "After decapitation, his head flies through the air to bite Raikō, requiring multiple warriors to hold it down.", "frequency": "always", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "pack",
+      "habitat_preference": ["remote mountains", "Mount Ōe", "Mount Ibuki", "demon fortresses"],
+      "diet": "Meat and blood of human victims; insatiable for sake",
+      "patterns": [
+        "Raids the capital from a mountain fortress",
+        "Abducts nobles, especially young women",
+        "Holds demonic banquets and consumes vast quantities of sake",
+        "Rules subordinate oni with strategic intelligence"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Mountain regions north and northwest of the Heian capital (Kyoto): Mount Ōe (Ōeyama) on the border of Tango and Tamba provinces; Mount Ibuki on the Ōmi–Mino border; and the southern Ōe area near Kameoka in modern Kyoto Prefecture.",
+      "continents": ["Asia"],
+      "countries": ["Japan"],
+      "regions": ["Tango Province (Kyoto Prefecture)", "Tamba Province", "Ōmi Province", "Mino Province"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Mount Ōe (Ōeyama)",
+        "location": {
+          "description": "Mountain on the Tango–Tamba border in northern Kyoto Prefecture; principal setting of the Shuten-dōji legend",
+          "country": "Japan",
+          "region": "Kyoto Prefecture (Tango/Tamba)"
+        },
+        "peak_period": "Heian period (legendary); 14th century onward (literary)",
+        "notes": "Site of the Ōeyama Ekotoba scroll's narrative; today hosts a Shuten-dōji-themed museum."
+      },
+      {
+        "name": "Mount Ibuki",
+        "location": {
+          "description": "Mountain on the Ōmi–Mino border (modern Shiga / Gifu Prefectures); setting of the Ibukiyama Shuten-dōji variant",
+          "country": "Japan",
+          "region": "Shiga / Gifu Prefectures"
+        },
+        "peak_period": "Late medieval (literary)",
+        "notes": "Variant tradition giving Shuten-dōji a different origin story (sometimes as a child of the deity of Mount Ibuki)."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "14th century",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Ōeyama Ekotoba (Itsuō Art Museum)"
+      },
+      "peak_activity_periods": [
+        { "period": "Late medieval to Edo period", "description": "Legend reproduced in Otogi-zōshi short stories, Otogi Bunko (c. 1720), Noh, Kabuki, and ukiyo-e." }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Heian-court legend literature, mountain-ascetic (yamabushi) folklore, and a long oral tradition of oni stories of the central Japanese highlands.",
+      "earliest_accounts": "The Ōeyama Ekotoba illustrated scroll (14th century), held by the Itsuō Art Museum, is the earliest surviving textual form.",
+      "folklore_connections": "Connected to other Yorimitsu cycle legends (Tsuchigumo, Ibaraki-dōji at Rashōmon) and to a wider Japanese tradition of mountain-dwelling oni and demon kings."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "986", "event": "Beginning of the reign of Emperor Ichijō, the legendary setting of the Shuten-dōji story", "significance": "Anchors the legend in the high Heian court", "source": "Standard chronologies" },
+      { "date": "14th century", "event": "Ōeyama Ekotoba illustrated scroll produced (now held by the Itsuō Art Museum)", "significance": "Earliest surviving narrative form of the legend", "source": "Itsuō Art Museum collection" },
+      { "date": "c. 1500", "event": "Shuten-dōji story circulates as one of the canonical Otogi-zōshi short stories", "significance": "Widespread literary diffusion", "source": "Otogi-zōshi corpus" },
+      { "date": "c. 1720", "event": "Shuten-dōji included in the Otogi Bunko woodblock-printed collection of 23 stories", "significance": "Mass popular distribution in early modern Japan", "source": "Otogi Bunko (Edo period)" },
+      { "date": "Edo period", "event": "Shuten-dōji depicted in ukiyo-e prints (e.g. by Utagawa Kuniyoshi) and adapted for Noh, Kabuki, and bunraku stages", "significance": "Establishes the iconic Edo visual tradition", "source": "Various Edo-period sources" }
+    ],
+    "modern_era": "The Shuten-dōji legend remains a cornerstone of Japanese popular culture, recurring in manga, anime, video games (notably the Onmyōji and Fate franchises), and themed local tourism around Mount Ōe."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -91,35 +167,114 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "shuten-doji-evidence-oeyama-ekotoba",
+        "type": "illustrated scroll",
+        "name": "Ōeyama Ekotoba",
+        "date": "14th century",
+        "description": "Earliest surviving illustrated text of the Shuten-dōji legend, held by the Itsuō Art Museum (Ikeda, Osaka).",
+        "status": "verified",
+        "analysis": "Foundational source for all later versions; the Itsuō scroll is the principal scholarly reference.",
+        "source": "Itsuō Art Museum"
+      },
+      {
+        "id": "shuten-doji-evidence-otogi-bunko",
+        "type": "printed book",
+        "name": "Otogi Bunko (companion library)",
+        "date": "c. 1720",
+        "description": "Edo-period woodblock-printed collection of 23 otogi-zōshi tales, including Shuten-dōji.",
+        "status": "verified",
+        "analysis": "Major distribution vector for the legend in early modern Japan.",
+        "source": "Otogi Bunko (Edo period)"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Real demon king of Heian Japan",
+        "description": "Within tradition, Shuten-dōji is treated as a real demon-king who menaced the Heian capital and was destroyed by Yorimitsu's expedition.",
+        "proponents": ["Tradition; Heian-court legend literature"],
+        "evidence_cited": ["Continuity of legend across Otogi-zōshi, Noh, and Kabuki"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Allegory for marginalised peoples and bandits",
+        "description": "Modern scholarship has read Shuten-dōji as a folkloric figure encoding Heian and medieval anxieties about non-court populations of the mountains — bandits, mountain ascetics, ironworking communities, and groups outside the capital's authority — recast as 'demons'.",
+        "proponents": ["Noriko T. Reider", "Komatsu Kazuhiko"],
+        "evidence_cited": ["Late medieval origin texts coinciding with court anxieties about provincial unrest", "Variant traditions placing Shuten-dōji's origin in mountain-deity or marginalised-community ancestry"]
+      },
+      {
+        "name": "Heroic legitimation of the Minamoto",
+        "description": "The Yorimitsu cycle, including Shuten-dōji, functioned to legitimise the warrior aristocracy of the Minamoto and their service to the imperial court.",
+        "proponents": ["Medieval Japanese literary historians"],
+        "evidence_cited": ["Recurrent pairing of Yorimitsu's exploits in late medieval literature", "Otogi-zōshi and Noh treatments emphasising imperial mandate"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Heian-court legend tradition",
+        "Yorimitsu (Raikō) and Four Heavenly Kings cycle",
+        "Yamabushi (mountain ascetic) tradition"
+      ],
+      "stories": [
+        "Ōeyama Ekotoba (14th c.)",
+        "Ōeyama Shuten-dōji (otogi-zōshi)",
+        "Ibukiyama Shuten-dōji (otogi-zōshi)",
+        "Noh play Ōeyama"
+      ],
+      "beliefs": "Treated in tradition as a paradigm of demonic evil and as a foundational tale of warrior heroism and imperial legitimacy."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "Reider, Noriko T., Japanese Demon Lore: Oni from Ancient Times to the Present (Utah State University Press, 2010)",
+        "Reider, Noriko T., Seven Demon Stories from Medieval Japan (Utah State University Press, 2016)"
+      ],
+      "film_tv": [
+        "Numerous anime adaptations (e.g. depictions in 'Otogi Zoshi', 'Onmyōji' series, and several jidaigeki films)"
+      ],
+      "games": [
+        "Onmyōji (mobile game by NetEase) — Shuten-dōji as a major shikigami",
+        "Fate/Grand Order (Type-Moon) — Shuten-dōji appears as a Servant"
+      ],
+      "music": [],
+      "other": [
+        "Mount Ōe Shuten-dōji-themed local museum and festival in Fukuchiyama, Kyoto Prefecture",
+        "Edo-period ukiyo-e prints by Utagawa Kuniyoshi"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Noriko T. Reider", "affiliation": "Miami University", "contribution": "Major Anglophone scholarship on oni and the Shuten-dōji corpus", "period": "2000s–present" },
+      { "name": "Komatsu Kazuhiko", "affiliation": "International Research Center for Japanese Studies (Nichibunken)", "contribution": "Foundational Japanese scholarship on oni and yōkai", "period": "1980s–present" }
+    ],
+    "organizations": [
+      { "name": "International Research Center for Japanese Studies (Nichibunken)", "url": "https://www.nichibun.ac.jp", "focus": "Yōkai and folklore database, including Shuten-dōji material" },
+      { "name": "Itsuō Art Museum", "url": "https://www.hankyu-bunka.or.jp/itsuo", "focus": "Holder of the Ōeyama Ekotoba scroll" }
+    ],
+    "ongoing_studies": "Active scholarship on the Shuten-dōji corpus includes critical editions of the medieval scrolls, comparative oni studies, and cultural-history work on warrior-aristocracy legitimation."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-shuten-doji", "type": "website", "title": "Shuten-dōji", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Shuten-d%C5%8Dji", "accessed": "2026-05-07" },
+    { "id": "reider-2010", "type": "book", "title": "Japanese Demon Lore: Oni from Ancient Times to the Present", "authors": ["Noriko T. Reider"], "publication": "Utah State University Press", "date": "2010", "isbn": "978-0874217933" },
+    { "id": "reider-2016", "type": "book", "title": "Seven Demon Stories from Medieval Japan", "authors": ["Noriko T. Reider"], "publication": "Utah State University Press", "date": "2016", "isbn": "978-1607324898" },
+    { "id": "oeyama-ekotoba", "type": "archive", "title": "Ōeyama Ekotoba (illustrated scroll)", "publication": "Itsuō Art Museum", "date": "14th century" }
+  ]
 }
